@@ -605,6 +605,8 @@ See [LICENSE](LICENSE) for full details.
 ### Author
 
 **Arokiya Nithish J**
+- Role: IOT Develeoper and Project Designer
+- 📅 Year: 2024
 - 🎓 Engineering Student | IoT & Embedded Systems Enthusiast
 - 💼 Domain: IoT | Arduino | RFID | Embedded C
 
