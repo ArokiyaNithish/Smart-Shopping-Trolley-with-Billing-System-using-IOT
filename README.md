@@ -560,12 +560,13 @@ git push origin feature/your-feature-name
 
 ### Reporting Issues
 
-Please use [GitHub Issues](https://github.com/ArokiyaNithish/Smart-Shopping-Trolley/issues) to:
+Please use [GitHub Issues](https://github.com/ArokiyaNithish/Smart-Shopping-Trolley-with-Billing-System-using-IOT/issues) to:
 - 🐛 Report bugs
 - 💡 Request features
-- ❓ Ask questions or get help
+- ❓ Ask questions
 
 ---
+
 
 ## 📄 License
 
