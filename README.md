@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 Smart Shopping Trolley with Billing System using IOT
+# 🛒 Smart Shopping Trolley with Billing System using IOT.
 
 ### *IoT-Powered Real-Time Self-Checkout Using RFID & Arduino UNO*
 
